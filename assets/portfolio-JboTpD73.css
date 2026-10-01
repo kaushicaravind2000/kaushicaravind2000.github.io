@@ -35,3 +35,4 @@ html,body,#root{margin:0;min-height:100%}body{background:var(--ds-page)}*{box-si
 .intro h1{letter-spacing:-.03em}
 .location,.kicker,.blockLabel,.period,.workStamp,.projectNav,.gallery figcaption{font-family:'IBM Plex Mono',monospace!important}
 .impact strong,.searchStats strong,.agentFacts strong{font-family:'Newsreader',serif!important}
+.contact{flex-wrap:wrap;row-gap:14px}.contact a{white-space:nowrap}
